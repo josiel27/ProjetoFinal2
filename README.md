@@ -1,3 +1,3 @@
 # Curriculo Josiel Faria
 
-josiel27.github.io/curriculo/docs/
+<a href="josiel27.github.io/curriculo/docs/" target="_blank"> josiel27.github.io/curriculo/docs/</a>
